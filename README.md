@@ -179,12 +179,13 @@ In this context, inhibition means suppressing notifications for certain alerts i
 
 ---
 # <center>Appendix - Useful Resources</center>
-[Prometheus](https://prometheus.io)
-[AlertManager](https://prometheus.io/docs/alerting/alertmanager)
-[Consul](https://www.consul.io)
-[Grafana](https://grafana.com)
-[Prometheus exporters](https://prometheus.io/docs/instrumenting/exporters)
-[Prometheus client libs](https://prometheus.io/docs/instrumenting/clientlibs)
+
+- [Prometheus](https://prometheus.io)
+- [AlertManager](https://prometheus.io/docs/alerting/alertmanager)
+- [Consul](https://www.consul.io)
+- [Grafana](https://grafana.com)
+- [Prometheus exporters](https://prometheus.io/docs/instrumenting/exporters)
+- [Prometheus client libs](https://prometheus.io/docs/instrumenting/clientlibs)
 
 <br><br>
 <hr>
@@ -193,4 +194,3 @@ In this context, inhibition means suppressing notifications for certain alerts i
 
 ---
 
-![bg](/home/jess/docs/november.jpg)
